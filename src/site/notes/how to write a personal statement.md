@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/how-to-write-a-personal-statement/","tags":["SOP","gardenEntry"]}
+{"dg-publish":true,"permalink":"/how-to-write-a-personal-statement/","tags":["SOP"]}
 ---
 
 # How to write a personal statement/ SOP
