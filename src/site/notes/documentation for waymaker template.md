@@ -3,7 +3,7 @@
 ---
 
 # documentation for waymaker notion template
-![Pasted image 20251025162226.png](/img/user/Pasted%20image%2020251025162226.png)
+![Pasted image 20251025162226.png|1000](/img/user/Pasted%20image%2020251025162226.png)
 [[streaks management\|streaks management]]
 
 [[set deadlines, plan your week, plan your day in waymaker template\|set deadlines, plan your week, plan your day in waymaker template]]
