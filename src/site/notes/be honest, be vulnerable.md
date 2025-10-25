@@ -32,18 +32,3 @@ human answer:
 __Q What from your past made you decide to go into this field? And how will your personal history help you succeed in this program and your future goals?__
 > - researching about the content related to my seminar topic- how big data is revolutionizing the food industry.
 > - Later on I developed my skillset in programming by joining various MOOCs and online courses related to data science
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

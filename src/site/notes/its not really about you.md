@@ -68,15 +68,3 @@ write 5 paragraphs:  intro, 3 body paras, conclusion
  2. para about me: How my personal experience would benefit the program
  3. para about me as well as society. My philosophy and how things are currently going in society (back the society status with data)
  4. para about benefiting society:
-
-
-
-
-
-
-
-
-
-
-
-

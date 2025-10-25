@@ -5,27 +5,3 @@
 # My Knowledge Garden
 
 [[how to write a personal statement\|how to write a personal statement]]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

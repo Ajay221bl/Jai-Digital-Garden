@@ -37,11 +37,4 @@ I can contribute in the following ways considering my background in food science
 1. I can use my expertise in food sector to help the class understand the various intricacies involved in business case studies related to food sector.
 2. I can use my experience as a sales manager to help my peers devise negotiation strategies while competing in a marketing class
 3. Having a good command on technical skills such as programming and statistical analysis, I can provide assistance to students who lack this background and make them understand concepts in an intuitive manner.
-4. Living in India, I have first hand experience on how businesses are ran in the second most populated country. 
-
-
-
-
-
-
-
+4. Living in India, I have first hand experience on how businesses are ran in the second most populated country.

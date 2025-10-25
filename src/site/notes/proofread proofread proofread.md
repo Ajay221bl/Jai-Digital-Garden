@@ -15,18 +15,3 @@
 	1. Trauma (needs a complete rewrite)
 	2. Serious injury (need to alter a few paragraphs)
 	3. health checkup (need to rectify some grammatical errors)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

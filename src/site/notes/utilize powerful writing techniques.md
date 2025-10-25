@@ -30,16 +30,3 @@
 ##### BP3
 - How can the degree help in solving it.
 - how the degree will act as a bridge in achieving your goal
-
-
-
-
-
-
-
-
-
-
-
-
-
