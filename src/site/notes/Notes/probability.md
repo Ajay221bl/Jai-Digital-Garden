@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/probability/","tags":["probability"]}
 ---
 
+
 # Probability
 Probability is chance of different outcomes occurring* in uncertain conditions
 
@@ -79,6 +80,7 @@ well it would be $$\frac{1}{6}$$
 - [[Notes/normalizing a data set\|normalizing a data set]]
 - [[Notes/outcomes of MITx probability course\|outcomes of MITx probability course]]
 - [[Notes/overfitted model\|overfitted model]]
+- [[Notes/permutation\|permutation]]
 - [[Notes/pmf of discrete uniform distribution\|pmf of discrete uniform distribution]]
 - [[Notes/pmf of poisson distribution\|pmf of poisson distribution]]
 - [[Notes/poisson distribution\|poisson distribution]]
