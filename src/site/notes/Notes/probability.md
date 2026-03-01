@@ -3,7 +3,7 @@
 ---
 
 # Probability
-Probability is chance of different outcomes occurring in uncertain conditions
+Probability is chance of different outcomes occurring* in uncertain conditions
 
 The probability is always measured from a scale of 0 to 1
 0 means the event will never occur
