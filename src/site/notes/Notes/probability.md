@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/notes/probability/","tags":["probability","gardenEntry"]}
+{"dg-publish":true,"permalink":"/notes/probability/","tags":["probability"]}
 ---
 
 # Probability
