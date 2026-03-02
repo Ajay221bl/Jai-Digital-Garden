@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/notes/probability/","tags":["probability","gardenEntry"]}
 ---
 
-
+/jjfa
 # Probability
 Probability is chance of different outcomes occurring* in uncertain conditions
 
